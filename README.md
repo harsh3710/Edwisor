@@ -1,2 +1,2 @@
-# Edwisor_Practice_Assignment
-It contains codes in R and Python and text files for all the practice modules.
+# Edwisor
+It contains all the practice assignments and project completed with Edwisor as a trainee
